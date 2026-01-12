@@ -6,7 +6,7 @@ Welcome to the Github Organization for code submission for 3F04 W2026!
 
 -->
 
-# Submission Instructions
+# Project 1 and 2 -- Submission Instructions
 
 Welcome to the Github Organization for code submission for 3F04 W2026! To receive credit for Projects 1 and 2, you must:
 1. Submit the PDF report to the Dropbox on Avenue2Learn
